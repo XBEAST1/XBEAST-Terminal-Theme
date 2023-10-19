@@ -1,0 +1,18 @@
+[/]
+background-color='rgb(34,12,37)'
+bold-color='#bdbdc3c3c7c7'
+bold-color-same-as-fg=true
+bold-is-bright=false
+cell-width-scale=1.0
+cjk-utf8-ambiguous-width='narrow'
+cursor-shape='ibeam'
+custom-command=''
+font='DejaVu Sans Mono 14'
+foreground-color='rgb(234,196,255)'
+login-shell=false
+palette=['rgb(21,37,53)', 'rgb(255,60,60)', 'rgb(214,135,255)', 'rgb(255,188,81)', 'rgb(61,182,249)', 'rgb(223,166,255)', 'rgb(22,160,133)', 'rgb(189,195,199)', 'rgb(38,56,75)', 'rgb(255,60,76)', 'rgb(227,174,255)', 'rgb(255,208,87)', 'rgb(91,215,255)', 'rgb(234,196,255)', 'rgb(32,92,87)', 'rgb(255,255,255)']
+scrollbar-policy='never'
+use-custom-command=false
+use-system-font=false
+use-theme-colors=false
+visible-name='XBEAST'
