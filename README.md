@@ -2,7 +2,7 @@
 
 Install commands
 
-First run all these commands
+First open user terminal and run all these commands
 
 ```
 bash install_powerline.sh
@@ -16,7 +16,7 @@ Then run all the commands again
 
 <br><br>
 
-Then run all these commands
+Then open root terminal and run all these commands
 
 ```
 sudo bash install_powerline.sh
